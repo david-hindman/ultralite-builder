@@ -1,0 +1,12 @@
+{
+  "name": "com.ultralite.editor.builder",
+  "displayName": "Ultralite Builder",
+  "version": "0.0.1-preview",
+  "unity": "2019.3",
+  "description": "Editor tool that allows the user to pre-define any number of build configurations and execute them in a sequence.",
+  "type": "Tool",
+  "author": "David Hindman",
+  "keywords": [
+    "unity"
+  ]
+}
